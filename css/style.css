@@ -1,0 +1,30 @@
+body {
+    font-family: Helvetica;
+    background: lightgrey;
+}
+
+h1 {
+	text-align: center;
+	color: #444;
+	background: darkgrey;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+h2 {
+    color: #007;
+	font-size: 25px;
+}
+
+p {
+	font-weight: lighter;
+	margin: 6px;
+}
+
+.i {
+	font-style: italic;
+}
+
+.b {
+	font-weight: bold;
+}
